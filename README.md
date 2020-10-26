@@ -1,16 +1,18 @@
-### Hi there 👋
+### 🎍 Welcome 
 
-<!--
-**silvaney007/silvaney007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profile](https://user-images.githubusercontent.com/42571500/97229729-b4452980-17d0-11eb-9dd3-57d05fbb1243.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑🏾‍💻 About me 
+
+- I really like challenges and and keep learning.
+- I see in programming a way to satisfy my continuous need to solve problems.
+
+### 🃏 And 
+
+- 🔭 Working on personal web and mobile applications
+- 🌱 Currently learning reactjs and react native
+- 💬 Curiosities ... PHP... .NET ... Python... GO
+  
+- 📫 Contact me: [![Linked Badge](https://img.shields.io/badge/linked-diney--rosario-blue)   ](https://www.linkedin.com/in/diney-rosario/)
+
