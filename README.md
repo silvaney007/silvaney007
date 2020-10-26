@@ -1,7 +1,4 @@
-### 🎍 Welcome 
-
-![profile](https://user-images.githubusercontent.com/42571500/97229729-b4452980-17d0-11eb-9dd3-57d05fbb1243.png)
-
+![profile](https://user-images.githubusercontent.com/42571500/97232413-01c39580-17d5-11eb-91b3-83e94096c317.png)
 
 ### 🧑🏾‍💻 About me 
 
