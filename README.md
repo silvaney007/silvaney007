@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jquery%20-%23F24E1E.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
