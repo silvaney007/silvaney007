@@ -9,7 +9,7 @@
 
 <h1 align="center"> 👨🏾‍💻 Technologies 👨🏾‍💻 </h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/java%20-%23F24E1A.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/java%20-%23F24E1A.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
