@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diney-rosario/" rel="external"><img src="https://img.shields.io/badge/linked-diney--rosario-blue" alt="linked"/></a>
+  <a href="https://www.linkedin.com/in/diney-rosario/" rel="external"><img width="200px" src="https://img.shields.io/badge/linked-diney--rosario-blue" alt="linked"/></a>
 </p>
