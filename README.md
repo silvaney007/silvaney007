@@ -1,4 +1,6 @@
-![image (3)](https://user-images.githubusercontent.com/42571500/99252848-8f5c3900-2807-11eb-84f0-02cd25dc5454.png)
+ <p align="center">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=silvaney007&count_private=true&show_icons=true&bg_color=1e243b&title_color=ffde59&text_color=ffffff"/> 
+</p>
 
 <h1 align="center"> 👨🏾 About me 👨🏾  </h1>
 
@@ -28,11 +30,6 @@
     <img src ="https://img.shields.io/badge/mysql-%2307405e.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-
- <p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=silvaney007&count_private=true&show_icons=true&bg_color=1e243b&title_color=ffde59&text_color=ffffff"/> 
 </p>
      
  <p align="center">
